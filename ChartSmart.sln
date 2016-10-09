@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChartSmart.Test", "ChartSmart.Test\ChartSmart.Test.csproj", "{2C8541F5-9773-4AE5-B610-BBFC39D0EB96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChartSmart", "StrategyPattern\ChartSmart.csproj", "{A2D188B8-DA2E-47B6-B9B9-2B77B8C7A4C9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B503BAE2-C2E9-4936-A77F-002165E4FF18}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C8541F5-9773-4AE5-B610-BBFC39D0EB96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C8541F5-9773-4AE5-B610-BBFC39D0EB96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C8541F5-9773-4AE5-B610-BBFC39D0EB96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C8541F5-9773-4AE5-B610-BBFC39D0EB96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2D188B8-DA2E-47B6-B9B9-2B77B8C7A4C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2D188B8-DA2E-47B6-B9B9-2B77B8C7A4C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2D188B8-DA2E-47B6-B9B9-2B77B8C7A4C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2D188B8-DA2E-47B6-B9B9-2B77B8C7A4C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
